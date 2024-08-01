@@ -20,11 +20,11 @@ const Sliders = () => {
   };
 
   const photos = [
-    { id: 1, url: nature1},
+    { id: 1, url: nature2},
     { id: 2, url:nature2 },
-    { id: 3, url: nature3 },
-    { id: 4, url:nature4 },
-    { id: 5, url: nature5 },
+    { id: 3, url: nature2 },
+    { id: 4, url:nature2 },
+    { id: 5, url: nature2 },
   ];
 
   return (
